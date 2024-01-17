@@ -1,4 +1,5 @@
-### Hi there 👋
+![Lux-Ferre's GitHub stats](https://github-readme-stats-luxferre.vercel.app/api?username=Lux-Ferre&hide=stars&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&custom_title=Lux-Ferres%20GitHub%20Stats)
+![Lux-Ferre's Language stats](https://github-readme-stats-luxferre.vercel.app/api/top-langs?username=Lux-Ferre&show_icons=true&theme=radical&layout=compact)
 
 <!--
 **Lux-Ferre/Lux-Ferre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
