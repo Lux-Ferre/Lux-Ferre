@@ -1,34 +1,45 @@
-# Hi there!
+<h1 align="center">Hi There!</h1>
+<p align="center">
+ I am Chris, a full-stack developer, welcome to my GitHub page!
+</p>
+<p align="center">
+ I love to solve problems of all kinds; from the digital (eg software/CAD) to the physical (eg carpentry/electronics) and everything between (eg 3D printing.)
+</p>
 
-I am Chris, a full-stack developer, welcome to my GitHub page!
+<p align="center">
+ <img src="https://github-readme-stats-luxferre.vercel.app/api?username=Lux-Ferre&hide=stars&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&custom_title=Lux-Ferres%20GitHub%20Stats" title="Lux-Ferre's GitHub stats" />
+</p>
 
-I love to solve problems of all kinds; from the digital (eg software/CAD) to the physical (eg carpentry/electronics) and everything between (eg 3D printing.)
+<h1 align="center">Technologies & Tools</h1>
 
-![Lux-Ferre's GitHub stats](https://github-readme-stats-luxferre.vercel.app/api?username=Lux-Ferre&hide=stars&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&custom_title=Lux-Ferres%20GitHub%20Stats)
+<p align="center">
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=sqlite&fill=b51d5a&textfill=000000&desc=SQL" title="SQL" />
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=python&fill=b51d5a&textfill=000000" title="Python" />
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=b51d5a&textfill=000000&desc=JavaScript" title="JavaScript" />
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=jquery&fill=b51d5a&textfill=000000&desc=%6AQuery" title="jQuery" />
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&fill=b51d5a&textfill=000000" title="Bootstrap" />
+</p>
 
-# Technologies
- - SQL
- - Python
- - JavaScript
- - jQuery
- - Bootstrap
+<p align="center">
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=windows&fill=b51d5a&textfill=000000" title="Windows" />
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&fill=b51d5a&textfill=000000" title="Linux" />
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=pycharm&fill=b51d5a&textfill=000000&desc=PyCharm" title="PyCharm" />
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=jetbrains&fill=b51d5a&textfill=000000&desc=fleet" title="Fleet" />
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=krita&fill=b51d5a&textfill=000000" title="Krita" />
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=dassaultsystemes&desc=solidworks&fill=b51d5a&textfill=000000" title="Solidworks" />
+</p>
 
- - Windows
- - Linux
- - PyCharm
- - Fleet
- - Krita
- - SOLIDWORKS
- - Cura
- - OctoPi
+<h1 align="center">Languages</h1>
 
-# Languages
+<p align="center">
+ <img src="https://github-readme-stats-luxferre.vercel.app/api/top-langs?username=Lux-Ferre&show_icons=true&theme=radical&layout=compact" title="Lux-Ferre's Language stats" />
+</p>
 
-![Lux-Ferre's Language stats](https://github-readme-stats-luxferre.vercel.app/api/top-langs?username=Lux-Ferre&show_icons=true&theme=radical&layout=compact)
+<p align="center">
+ (Regardless of what that graph says,) when it comes to code, I'm perfectly happy to use many languages but I really love Python. Being able to go from an idea to an MVP in next to no time is an amazing thing.
+</p>
 
-(Regardless of what that graph says,) when it comes to code, I'm perfectly happy to use many languages but I really love Python. Being able to go from an idea to an MVP in next to no time is an amazing thing.
-
-# Some Projects
+<h1 align="center">Some Projects</h1>
 
 [![IdlePixel-Bot Repo](https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=IdlePixel-Bot&theme=radical)](https://github.com/Lux-Ferre/IdlePixel-Bot)
 [![DHP-Scripts Repo](https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=DHP-Scripts&theme=radical)](https://github.com/Lux-Ferre/DHP-Scripts)
