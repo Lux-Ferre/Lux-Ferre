@@ -46,7 +46,7 @@
     <img src="solar_system.svg" width="400" height="400">
 </div>
 <p align="center">
- This is a variant of my pure CSS solar system, modified to work on GitHub. Each planet is just a coloured div. A responsive version (using Bootstrap) will be on my website soon.
+ This is a variant of my pure CSS solar system, modified to work on GitHub. Each planet is just a coloured div. The original responsive version (using Bootstrap) will be on my website soon.
 </p>
 
 <h3 align="center">Idle-Pixel</h3>
