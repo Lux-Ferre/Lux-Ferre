@@ -46,7 +46,14 @@
     <img src="solar_system.svg" width="400" height="400">
 </div>
 <p align="center">
- This is a variant of my pure CSS solar system, modified to work on GitHub. Each planet is just a coloured div. The original responsive version (using Bootstrap) will be on my website soon.
+ This is a variant of my pure CSS solar system, modified to work on GitHub. It has been embeded using an svg foreignObject.
+ The original responsive version (using Bootstrap) will be on my website soon.
+</p>
+<p align="center">
+ Each planet is just a coloured div. 
+</p>
+<p align="center">
+ The orbital periods are roughly set to a scale of 1:720,000 (eg Earth's is 3.65 seconds instead of 365 days.)
 </p>
 
 <h3 align="center">Idle-Pixel</h3>
