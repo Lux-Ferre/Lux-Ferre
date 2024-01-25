@@ -41,9 +41,25 @@
 
 <h1 align="center">Some Projects</h1>
 
+<h3 align="center">Solar System</h3>
+<div align="center">
+    <img src="solar_system.svg" width="400" height="400">
+</div>
+<p align="center">
+ This is a variant of my pure CSS solar system, modified to work on GitHub. Each planet is just a coloured div. A responsive version (using Bootstrap) will be on my website soon.
+</p>
+
+<h3 align="center">Idle-Pixel</h3>
+
 [![IdlePixel-Bot Repo](https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=IdlePixel-Bot&theme=radical)](https://github.com/Lux-Ferre/IdlePixel-Bot)
 [![DHP-Scripts Repo](https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=DHP-Scripts&theme=radical)](https://github.com/Lux-Ferre/DHP-Scripts)
+
+<h3 align="center">More Gaming</h3>
+
 [![galaxy-builder Repo](https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=galaxy-builder&theme=radical)](https://github.com/Lux-Ferre/galaxy-builder)
 [![gituich Repo](https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=gituich&theme=radical)](https://github.com/Lux-Ferre/gituich)
+
+<h3 align="center">Misc Repos</h3>
+
 [![user_group Repo](https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=user_group&theme=radical)](https://github.com/Lux-Ferre/user_group)
 [![lbtech-info Repo](https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=lbtech-info&theme=radical)](https://github.com/Lux-Ferre/lbtech-info)
