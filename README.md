@@ -41,7 +41,7 @@
 
 <h1 align="center">Some Projects</h1>
 
-<h3 align="center">Solar System</h3>
+<h2 align="center">Solar System</h2>
 <div align="center">
     <img src="solar_system.svg" width="400" height="400">
 </div>
@@ -56,17 +56,40 @@
  The orbital periods are roughly set to a scale of 1:720,000 (eg Earth's is 3.65 seconds instead of 365 days.)
 </p>
 
-<h3 align="center">Idle-Pixel</h3>
+<h2 align="center">Idle-Pixel</h2>
+<p align="center">
+ <a href="https://idle-pixel.com">Idle-Pixel</a> is a browser based idle/incremental game. It is the 7th game in the Diamond Hunt series. My software contributions to the community fall in to two sections: QoL scripts, and stand-alone clients.
+</p>
 
-[![IdlePixel-Bot Repo](https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=IdlePixel-Bot&theme=radical)](https://github.com/Lux-Ferre/IdlePixel-Bot)
-[![DHP-Scripts Repo](https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=DHP-Scripts&theme=radical)](https://github.com/Lux-Ferre/DHP-Scripts)
+<h3 align="center">Clients</h3>
 
-<h3 align="center">More Gaming</h3>
+<p align="center">
+ <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=IdlePixel-Bot&theme=radical" title="IdlePixel-Bot" />
+ <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=idlepixel-websocket-monitor&theme=radical" title="IdlePixel-Socket-Monitor" />
+</p>
 
-[![galaxy-builder Repo](https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=galaxy-builder&theme=radical)](https://github.com/Lux-Ferre/galaxy-builder)
-[![gituich Repo](https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=gituich&theme=radical)](https://github.com/Lux-Ferre/gituich)
+<h3 align="center">QoL Scripts</h3>
 
-<h3 align="center">Misc Repos</h3>
+<p align="center">
+ <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=DHP-Scripts&theme=radical" title="DHP-Scripts" />
+</p>
 
-[![user_group Repo](https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=user_group&theme=radical)](https://github.com/Lux-Ferre/user_group)
-[![lbtech-info Repo](https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=lbtech-info&theme=radical)](https://github.com/Lux-Ferre/lbtech-info)
+<h2 align="center">More Gaming</h2>
+
+
+<p align="center">
+ <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=galaxy-builder&theme=radical" title="galaxy-builder Repo" />
+</p>
+<p align="center">
+ <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=gituich&theme=radical" title="gituich Repo" />
+</p>
+
+<h2 align="center">Misc Repos</h2>
+
+
+<p align="center">
+ <img src="" title="" />
+</p>
+<p align="center">
+ <img src="" title="" />
+</p>
