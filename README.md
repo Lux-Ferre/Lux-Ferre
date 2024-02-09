@@ -71,6 +71,10 @@
 <h3 align="center">QoL Scripts</h3>
 
 <p align="center">
+ This repo contains my collection of quality of life scripts and addons for Idle-Pixel. I am one of (if not the) most prolific publishers of scripts for this game so the repo has its own set of readme files including automatically generated markdown files for each script powered by GitHub Actions.
+</p>
+
+<p align="center">
  <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=DHP-Scripts&theme=radical" title="DHP-Scripts" />
 </p>
 
