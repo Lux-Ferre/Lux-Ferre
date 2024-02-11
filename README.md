@@ -68,8 +68,12 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=IdlePixel-Bot&theme=radical" title="IdlePixel-Bot" />
- <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=idlepixel-websocket-monitor&theme=radical" title="IdlePixel-Socket-Monitor" />
+ <a href="https://github.com/Lux-Ferre/IdlePixel-Bot">
+  <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=IdlePixel-Bot&theme=radical" title="IdlePixel-Bot" />
+ </a>
+ <a href="https://github.com/Lux-Ferre/idlepixel-websocket-monitor">
+  <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=idlepixel-websocket-monitor&theme=radical" title="IdlePixel-Socket-Monitor" />
+ </a>
 </p>
 
 <h3 align="center">QoL Scripts</h3>
@@ -79,25 +83,29 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=DHP-Scripts&theme=radical" title="DHP-Scripts" />
+ <a href="https://github.com/Lux-Ferre/DHP-Scripts">
+  <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=DHP-Scripts&theme=radical" title="DHP-Scripts" />
+ </a>
 </p>
 
 <h2 align="center">More Gaming</h2>
 
 
 <p align="center">
- <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=galaxy-builder&theme=radical" title="galaxy-builder Repo" />
+ <a href="https://github.com/Lux-Ferre/galaxy-builder">
+  <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=galaxy-builder&theme=radical" title="galaxy-builder Repo" />
+ </a>
 </p>
 <p align="center">
- <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=gituich&theme=radical" title="gituich Repo" />
+ <a href="https://github.com/Lux-Ferre/gituich">
+  <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=gituich&theme=radical" title="gituich Repo" />
+ </a>
 </p>
-
+<!--
 <h2 align="center">Misc Repos</h2>
-
-
 <p align="center">
- <img src="" title="" />
+ <a href="">
+  <img src="" title="" />
+ </a>
 </p>
-<p align="center">
- <img src="" title="" />
-</p>
+-->
