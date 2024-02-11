@@ -13,20 +13,20 @@
 <h1 align="center">Technologies & Tools</h1>
 
 <p align="center">
- <img src="https://readme-components.vercel.app/api?component=logo&logo=sqlite&fill=b51d5a&textfill=000000&desc=SQL" title="SQL" />
- <img src="https://readme-components.vercel.app/api?component=logo&logo=python&fill=b51d5a&textfill=000000" title="Python" />
- <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=b51d5a&textfill=000000&desc=JavaScript" title="JavaScript" />
- <img src="https://readme-components.vercel.app/api?component=logo&logo=jquery&fill=b51d5a&textfill=000000&desc=%6AQuery" title="jQuery" />
- <img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&fill=b51d5a&textfill=000000" title="Bootstrap" />
+ <a href="https://sqlite.org/"><img src="https://readme-components.vercel.app/api?component=logo&logo=sqlite&fill=b51d5a&textfill=000000&desc=SQL(ite)" title="SQL(ite)" /></a>
+ <a href="https://python.org"><img src="https://readme-components.vercel.app/api?component=logo&logo=python&fill=b51d5a&textfill=000000" title="Python" /></a>
+ <a href="https://ecma-international.org"><img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=b51d5a&textfill=000000&desc=JavaScript" title="JavaScript" /></a>
+ <a href="https://jquery.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=jquery&fill=b51d5a&textfill=000000&desc=%6AQuery" title="jQuery" /></a>
+ <a href="https://getbootstrap.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&fill=b51d5a&textfill=000000" title="Bootstrap" /></a>
 </p>
 
 <p align="center">
- <img src="https://readme-components.vercel.app/api?component=logo&logo=windows&fill=b51d5a&textfill=000000" title="Windows" />
- <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&fill=b51d5a&textfill=000000" title="Linux" />
- <img src="https://readme-components.vercel.app/api?component=logo&logo=pycharm&fill=b51d5a&textfill=000000&desc=PyCharm" title="PyCharm" />
- <img src="https://readme-components.vercel.app/api?component=logo&logo=jetbrains&fill=b51d5a&textfill=000000&desc=fleet" title="Fleet" />
- <img src="https://readme-components.vercel.app/api?component=logo&logo=krita&fill=b51d5a&textfill=000000" title="Krita" />
- <img src="https://readme-components.vercel.app/api?component=logo&logo=dassaultsystemes&desc=solidworks&fill=b51d5a&textfill=000000" title="Solidworks" />
+ <a href="https://microsoft.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=windows&fill=b51d5a&textfill=000000" title="Windows" /></a>
+ <a href="https://linux.org"><img src="https://readme-components.vercel.app/api?component=logo&logo=linux&fill=b51d5a&textfill=000000" title="Linux" /></a>
+ <a href="https://jetbrains.com/pycharm/"><img src="https://readme-components.vercel.app/api?component=logo&logo=pycharm&fill=b51d5a&textfill=000000&desc=PyCharm" title="PyCharm" /></a>
+ <a href="https://jetbrains.com/fleet/"><img src="https://readme-components.vercel.app/api?component=logo&logo=jetbrains&fill=b51d5a&textfill=000000&desc=fleet" title="Fleet" /></a>
+ <a href="https://krita.org"><img src="https://readme-components.vercel.app/api?component=logo&logo=krita&fill=b51d5a&textfill=000000" title="Krita" /></a>
+ <a href="https://solidworks.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=dassaultsystemes&desc=SolidWorks&fill=b51d5a&textfill=000000" title="Solidworks" /></a>
 </p>
 
 <h1 align="center">Languages</h1>
