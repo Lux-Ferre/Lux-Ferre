@@ -88,14 +88,24 @@
  </a>
 </p>
 
-<h2 align="center">More Gaming</h2>
+<h2 align="center">TT RPG</h2>
 
+<h3 align="center">Galaxy Builder</h3>
+<p align="center">
+ The galaxy builder is an experimental tool for generating celestial objects and systems to exist within a table top RPG universe. For added realism, its stellar distribution is taken from the ESA's Gaia project API.
+</p>
 
 <p align="center">
  <a href="https://github.com/Lux-Ferre/galaxy-builder">
   <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=galaxy-builder&theme=radical" title="galaxy-builder Repo" />
  </a>
 </p>
+
+<h3 align="center">Gituich</h3>
+<p align="center">
+ Gituich is an incremental game set on the planet Gituich within the sci-fi universe of my table top RPG. As yet, it is merely set within the universe, not part of any scenarios. There isn't much gameplay atm, it has mostly served as a way for me to experiment with OOP.
+</p>
+
 <p align="center">
  <a href="https://github.com/Lux-Ferre/gituich">
   <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=gituich&theme=radical" title="gituich Repo" />
