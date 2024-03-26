@@ -13,11 +13,13 @@
 <h1 align="center">Technologies & Tools</h1>
 
 <p align="center">
- <a href="https://sqlite.org/"><img src="https://readme-components.vercel.app/api?component=logo&logo=sqlite&fill=b51d5a&textfill=000000&desc=SQL(ite)" title="SQL(ite)" /></a>
+ <a href="https://sqlite.org/"><img src="https://readme-components.vercel.app/api?component=logo&logo=sqlite&fill=b51d5a&textfill=000000&desc=SQL" title="SQL" /></a>
  <a href="https://python.org"><img src="https://readme-components.vercel.app/api?component=logo&logo=python&fill=b51d5a&textfill=000000" title="Python" /></a>
  <a href="https://ecma-international.org"><img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=b51d5a&textfill=000000&desc=JavaScript" title="JavaScript" /></a>
  <a href="https://jquery.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=jquery&fill=b51d5a&textfill=000000&desc=%6AQuery" title="jQuery" /></a>
  <a href="https://getbootstrap.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&fill=b51d5a&textfill=000000" title="Bootstrap" /></a>
+ <a href="https://flask.palletsprojects.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=flask&fill=b51d5a&textfill=000000" title="Flask" /></a>
+ <a href="https://fastapi.tiangolo.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=fastapi&fill=b51d5a&textfill=000000&desc=FastAPI" title="FastAPI" /></a>
 </p>
 
 <p align="center">
