@@ -66,10 +66,17 @@
 <h3 align="center">Clients</h3>
 
 <p align="center">
- IdlePixel-Bot (called LuxBot in game) contains my most elaborate project. It monitors and parses game data to provide statistics; mirror chat to Discord; provide automatic moderation; act as host for some user scripts; give alerts to players; and more.
+ LuxBot is my most elaborate project to date. It monitors and parses game data to provide statistics; mirror chat to Discord; provide automatic moderation; act as host for some user scripts; give alerts to players; and more.
 </p>
 
 <p align="center">
+ LuxBot is itself a rewrite of my previous most complicated project simply called <a href="https://github.com/Lux-Ferre/IdlePixel-Bot">IdlePixel-Bot</a>. The main benefit of the rewrite was the ability to use multiprocessing to seperate concerns, keeping the primary handling of game interaction free from slower functions (like API calls); as well as being much easier to expand with new features such as its own API (powered by FastAPI.)
+</p>
+
+<p align="center">
+ <a href="https://github.com/Lux-Ferre/LuxBot">
+  <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=LuxBot&theme=radical" title="LuxBot" />
+ </a>
  <a href="https://github.com/Lux-Ferre/IdlePixel-Bot">
   <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=IdlePixel-Bot&theme=radical" title="IdlePixel-Bot" />
  </a>
