@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- (Regardless of what that graph says,) when it comes to code, I'm perfectly happy to use many languages but I really love Python. Being able to go from an idea to an MVP in next to no time is an amazing thing.
+ Most of my work has been in creating Python backends (Flask) with relatively lightweight frontends (Bootstrap/jQuery.)
 </p>
 
 <h1 align="center">Some Projects</h1>
@@ -49,10 +49,10 @@
 </div>
 <p align="center">
  This is a variant of my pure CSS solar system, modified to work on GitHub. It has been embeded using an svg foreignObject.
- The original responsive version (using Bootstrap) will be on my website soon.
+ The original responsive version is demonstrated on <a href="https://luxferre.dev">my website's landing page</a>.
 </p>
 <p align="center">
- Each planet is just a coloured div. 
+ Each planet is a stylized div. 
 </p>
 <p align="center">
  The orbital periods are roughly set to a scale of 1:720,000 (eg Earth's is 3.65 seconds instead of 365 days.)
@@ -60,13 +60,13 @@
 
 <h2 align="center">Idle-Pixel</h2>
 <p align="center">
- <a href="https://idle-pixel.com">Idle-Pixel</a> is a browser based idle/incremental game. It is the 7th game in the Diamond Hunt series. My software contributions to the community fall in to two sections: QoL scripts, and stand-alone clients.
+ <a href="https://idle-pixel.com">Idle-Pixel</a> is a browser based idle/incremental game. It is the 7th game in the Diamond Hunt series. My software contributions to the community fall in to two sections: QoL scripts, and specialized tools.
 </p>
 
-<h3 align="center">Clients</h3>
+<h3 align="center">Tools</h3>
 
 <p align="center">
- LuxBot is my most elaborate project to date. It monitors and parses game data to provide statistics; mirror chat to Discord; provide automatic moderation; act as host for some user scripts; give alerts to players; and more.
+ LuxBot is one of my most elaborate projects. It monitors and parses game data to provide statistics; mirror chat to Discord; provide automatic moderation; act as host for some user scripts; give alerts to players; and more.
 </p>
 
 <p align="center">
@@ -83,12 +83,15 @@
  <a href="https://github.com/Lux-Ferre/idlepixel-websocket-monitor">
   <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=idlepixel-websocket-monitor&theme=radical" title="IdlePixel-Socket-Monitor" />
  </a>
+ <a href="https://github.com/Lux-Ferre/IdlePixel-Data">
+  <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=IdlePixel-Data&theme=radical" title="IdlePixel-Data" />
+ </a>
 </p>
 
 <h3 align="center">QoL Scripts</h3>
 
 <p align="center">
- This repo contains my collection of quality of life scripts and addons for Idle-Pixel. I am one of (if not the) most prolific publishers of scripts for this game so the repo has its own set of readme files including automatically generated markdown files for each script powered by GitHub Actions.
+ This repo contains my collection of quality of life scripts and addons for Idle-Pixel. I am a prolific publisher of specialized scripts for this game so the repo has its own set of readme files including automatically generated markdown files for each script powered by GitHub Actions.
 </p>
 
 <p align="center">
@@ -99,17 +102,6 @@
 
 <h2 align="center">TT RPG</h2>
 
-<h3 align="center">Galaxy Builder</h3>
-<p align="center">
- The galaxy builder is an experimental tool for generating celestial objects and systems to exist within a table top RPG universe. For added realism, its stellar distribution is taken from the ESA's Gaia project API.
-</p>
-
-<p align="center">
- <a href="https://github.com/Lux-Ferre/galaxy-builder">
-  <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=galaxy-builder&theme=radical" title="galaxy-builder Repo" />
- </a>
-</p>
-
 <h3 align="center">Gituich</h3>
 <p align="center">
  Gituich is an incremental game set on the planet Gituich within the sci-fi universe of my table top RPG. As yet, it is merely set within the universe, not part of any scenarios. There isn't much gameplay atm, it has mostly served as a way for me to experiment with OOP.
@@ -118,6 +110,19 @@
 <p align="center">
  <a href="https://github.com/Lux-Ferre/gituich">
   <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=gituich&theme=radical" title="gituich Repo" />
+ </a>
+</p>
+
+<h2 align="center">Misc Repos</h2>
+<p align="center">
+ <a href="https://github.com/Lux-Ferre/flask-gui">
+  <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=flask-gui&theme=radical" title="flask-gui" />
+ </a>
+</p>
+
+<p align="center">
+ <a href="https://github.com/Lux-Ferre/image-server">
+  <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=image-server&theme=radical" title="image-server" />
  </a>
 </p>
 <!--
