@@ -49,7 +49,6 @@
 </div>
 <p align="center">
  This is a variant of my pure CSS solar system, modified to work on GitHub. It has been embeded using an svg foreignObject.
- The original responsive version is demonstrated on <a href="https://luxferre.dev">my website's landing page</a>.
 </p>
 <p align="center">
  Each planet is a stylized div. 
