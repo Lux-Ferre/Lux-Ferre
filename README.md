@@ -76,12 +76,14 @@
  <a href="https://github.com/Lux-Ferre/LuxBot">
   <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=LuxBot&theme=radical" title="LuxBot" />
  </a>
+ <!--
  <a href="https://github.com/Lux-Ferre/IdlePixel-Bot">
   <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=IdlePixel-Bot&theme=radical" title="IdlePixel-Bot" />
  </a>
  <a href="https://github.com/Lux-Ferre/idlepixel-websocket-monitor">
   <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=idlepixel-websocket-monitor&theme=radical" title="IdlePixel-Socket-Monitor" />
  </a>
+ -->
  <a href="https://github.com/Lux-Ferre/IdlePixel-Data">
   <img src="https://github-readme-stats-luxferre.vercel.app/api/pin?username=Lux-Ferre&repo=IdlePixel-Data&theme=radical" title="IdlePixel-Data" />
  </a>
